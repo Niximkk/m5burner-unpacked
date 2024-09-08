@@ -1,0 +1,14 @@
+{
+  "name": "m5burner",
+  "version": "3.0.0",
+  "description": "M5Stack Flash Tool",
+  "main": "app.js",
+  "author": "M5Stack",
+  "dependencies": {
+    "@electron/remote": "^2.0.8",
+    "axios": "^0.26.0",
+    "electron": "^32.0.2",
+    "unzipper": "^0.10.11",
+    "usb-native": "^6.0.0"
+  }
+}
